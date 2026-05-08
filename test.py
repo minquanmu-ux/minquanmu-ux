@@ -5,4 +5,7 @@ month = 9
 cal = calendar.TextCalendar(firstweekday=0)
 # 打印指定月份的日历
 cal.prmonth(year, month)
-对方的2
+对方的
+1
+2
+3
